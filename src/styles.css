@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    color: #27AE60;
+    text-align: center;
+}
+.dropdown-menu{
+    background-color:#27AE60 ;
+}
+article p{
+    text-align: justify;
+    color: white;
+}
+article{
+    background-color: #27AE60;
+}
+.navbar{
+    color: white;
+}
+footer {
+    background-color: #27AE60;
+    color: white;
+    
+}
+footer h5, p{
+    text-align: center;
+}
+form,h4{
+    color: #27AE60;
+}
+.spacer{
+    align-items: flex-end;
+}
